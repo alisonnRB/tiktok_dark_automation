@@ -1,0 +1,274 @@
+Dançarino
+Programador
+Médico
+Professor
+Engenheiro
+Arquiteto
+Designer
+Pintor
+Advogado
+Motorista
+Enfermeiro
+Fotógrafo
+Psicólogo
+Escritor
+Designer Gráfico
+Ator
+Jornalista
+Cientista
+Bibliotecário
+Mecânico
+Analista
+Cientista de Dados
+Redator
+Astrônomo
+Bancário
+Eletricista
+Gestor de Projetos
+Publicitário
+Veterinário
+Dentista
+Contador
+Geógrafo
+Biomédico
+Fisioterapeuta
+Farmacêutico
+Chef
+Tecnólogo
+Auxiliar Administrativo
+Corretor de Imóveis
+Supervisor
+Recepcionista
+Operador de Máquinas
+Consultor
+Padeiro
+Carpinteiro
+Hidraulista
+Estilista
+Padeiro
+Marinheiro
+Jardineiro
+Gestor de Marketing
+Social Media
+Artista Plástico
+Psicopedagogo
+Estatístico
+Arqueólogo
+Biologo
+Diretor de Cinema
+Produtor Musical
+Relações Públicas
+Técnico de Enfermagem
+Auxiliar de Farmácia
+Técnico de Segurança do Trabalho
+Instrutor de Yoga
+Guias de Turismo
+Personal Trainer
+Auditor
+Assessor de Imprensa
+Técnico em Informática
+Cabelereiro
+Manicure
+Esteticista
+Técnico de Laboratório
+Analista de Sistemas
+Programador de Jogos
+Desenvolvedor Web
+Desenvolvedor Mobile
+Administrador de Banco de Dados
+Técnico de Redes
+Analista de Recursos Humanos
+Designer de Interiores
+Diretor Executivo
+Gerente de TI
+Engenheiro de Software
+Analista de Suporte
+Consultor de TI
+Pintor Artístico
+Técnico de Som
+Produtor de Vídeo
+Técnico de Áudio
+Técnico de Iluminação
+Assistente Social
+Técnico de Informática
+Programador de Banco de Dados
+Instrutor de Informática
+Designer de Moda
+Engenheiro Eletricista
+Motorista de Táxi
+Cientista Social
+Técnico de Mecânica
+Técnico de Radiologia
+Gestor de Operações
+Gestor de Qualidade
+Consultor de Negócios
+Analista de Marketing Digital
+Analista de Suporte Técnico
+Logístico
+Técnico em Edificações
+Veterinário
+Tecnico de Audiovisual
+Personal Shopper
+Chef de Cozinha
+Açougueiro
+Borracheiro
+Carpinteiro
+Pedreiro
+Cozinheiro Industrial
+Lixeiro
+Fiscal de Obras
+Analista Fiscal
+Gestor de Recursos Humanos
+Consultor Financeiro
+Coach
+Técnico de Informática
+Técnico de Refrigeração
+Serralheiro
+Consultor de Imagem
+Fisioterapeuta Respiratório
+Mestre de Obras
+Recrutador
+Técnico de Usinagem
+Pintor de Obras
+Auditor de Qualidade
+Desenhista
+Marceneiro
+Joalheiro
+Cortador de Roupas
+Trabalhador Rural
+Técnico de Pneus
+Supervisor de Produção
+Mestre de Obras
+Operador de Equipamentos Pesados
+Técnico de Segurança
+Padeiro Artesanal
+Massoterapeuta
+Biólogo
+Bombeiro
+Sargento
+Soldado
+Policial Militar
+Policial Civil
+Técnico de Enfermagem
+Agente de Trânsito
+Analista de Logística
+Técnico de Engenharia
+Administrador de Sistemas
+Consultor de SEO
+Editor de Vídeo
+Consultor de Vendas
+Analista de Crédito
+Comerciante
+Mercadólogo
+Supervisor de Estoque
+Corretor de Seguros
+Diretor Comercial
+Técnico de Meteorologia
+Analista de Risco
+Agente de Saúde
+Recepcionista de Hotel
+Técnico de Enfermagem do Trabalho
+Artesão
+Artista Digital
+Consultor de TI
+Gestor de Eventos
+Especialista de Vendas
+Gestor de Comunicação
+Músico
+Estilista de Moda
+Costureiro
+Jornalista de Moda
+Professor de Educação Física
+Líder de Projetos
+Supervisor de Logística
+Mestre de Artes Marciais
+Coach Executivo
+Gestor de Compras
+Técnico de Refrigerção Comercial
+Analista de Processos
+Programador de Aplicativos
+Operador de Telemarketing
+Especialista em Recursos Humanos
+Técnico em Análises Clínicas
+Gestor de Produção
+Desenvolvedor de Sistemas
+Professor Universitário
+Analista de Desenvolvimento
+Consultor de Eficiência Energética
+Fotógrafo de Eventos
+Jornalista Investigativo
+Consultor Ambiental
+Pesquisador Científico
+Engenheiro Ambiental
+Técnico em Energia
+Consultor de Investimentos
+Instrutor de Direção
+Bibliotecário Escolar
+Redator de Conteúdo
+Analista de Dados
+Enfermeiro Obstetra
+Recepcionista de Consultório
+Designer de Produto
+Especialista em Marketing de Conteúdo
+Programador Full Stack
+Analista de Testes de Software
+Supervisor de Marketing
+Consultor de Inteligência de Mercado
+Educador Infantil
+Cabeleireiro de Noivas
+Consultor de Estilo
+Analista de Relacionamento
+Consultor de Comunicação
+Pesquisador de Mercado
+Gestor de Relacionamento com o Cliente
+Consultor Empresarial
+Administrador de Marketing
+Mestre de Equitação
+Cientista de Materiais
+Consultor de Transporte
+Gestor de Comércio Exterior
+Coach de Vida
+Consultor de Gestão de Pessoas
+Consultor Técnico
+Desenvolvedor de Jogos
+Gestor de Vendas
+Designer UX/UI
+Programador de Frontend
+Gestor de TI
+Consultor de Gestão de Processos
+Analista de Rede de Dados
+Desenhista Técnico
+Consultor de Desenvolvimento Organizacional
+Engenheiro Químico
+Analista de Infraestrutura
+Gestor de Desenvolvimento de Produto
+Consultor de Logística
+Técnico de Eletromecânica
+Técnico de Processos Industriais
+Desenvolvedor Front-End
+Esteticista Corporal
+Técnico de Patologia
+Gerente de Projeto de TI
+Consultor de Desempenho Empresarial
+Consultor de Parcerias Empresariais
+Gestor de Atendimento ao Cliente
+Técnico de Controle de Qualidade
+Pesquisador em Inteligência Artificial
+Supervisor de Engenharia
+Supervisor de Qualidade
+Consultor de Sustentabilidade
+Consultor de Relacionamento de Marca
+Programador de Software
+Técnico em Automação Industrial
+Gerente de Operações
+Gestor de Inventário
+Analista de Sistemas Corporativos
+Consultor em Redes de Computadores
+Técnico em Computação Gráfica
+Especialista em Transformação Digital
+Gestor de Marketing Digital
+Gestor de E-commerce
+Programador de Backend
+Analista de Tecnologia e Inovação
+Consultor de Treinamento Empresarial
+Cozinheiro
