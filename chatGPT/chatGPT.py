@@ -20,7 +20,7 @@ class ChatGPT:
 
         time.sleep(15)
 
-        ButtonFind("copiar.PNG", "copiar", self.base_dir)
+        ButtonFind("copiar.PNG", "copiar", self.base_dir, -2000)
         self.GPTprompt = pyperclip.paste()
 
 

@@ -4,7 +4,7 @@ from qwen.qwen import Qwen
 class Main:
     def __init__(self):
         self.chat = ChatGPT()
-        self.qwen = Qwen(self.chat.prompt)
+        self.qwen = Qwen(self.chat.GPTprompt)
         
 
 

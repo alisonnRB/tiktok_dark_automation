@@ -4,8 +4,8 @@ import pyautogui
 
 class ButtonFind:
 
-    def __init__(self, name_arq, name_button, base_dir):
-        pyautogui.scroll(clicks=-50)
+    def __init__(self, name_arq, name_button, base_dir, scroll = 0):
+        pyautogui.scroll(clicks=scroll)
         time.sleep(5)
 
         copiar_button_location = pyautogui.locateOnScreen(os.path.join(base_dir, name_arq), confidence=0.8)

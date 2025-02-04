@@ -10,12 +10,12 @@ class Qwen:
 
     def __init__(self, chatPrompt):
         self.site = Site("https://chat.qwenlm.ai")
-        time.sleep(5)
+        time.sleep(10)
 
         ButtonFind("gerar_videos.PNG", "gerar video", self.base_dir)
         ButtonFind("formato_selection.PNG", "seleção de formato", self.base_dir)
         time.sleep(2)
-        ButtonFind("formato.PNG", "format", self.base_dir)
+        ButtonFind("format.PNG", "formato", self.base_dir)
 
         self.site.move_to_text_input(700, 400)
 
