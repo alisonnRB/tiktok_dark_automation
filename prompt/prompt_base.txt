@@ -1,0 +1,6 @@
+Crie um prompt de comando extremamente detalhado para uma IA gerar um video, seguindo esse formato:
+
+"Nas profundezas do oceano, onde a luz nunca chega, uma criatura colossal desliza entre destroços e rochas submersas. Seu corpo imenso, coberto de cicatrizes e lodo, se move silenciosamente. Tentáculos grossos arrastam sedimentos do fundo, enquanto sua boca serrilhada se abre lentamente. O silêncio é quebrado apenas pelo deslocamento da água antes que a escuridão a engula novamente."
+
+sua resposta não deve conter nada além do prompt.
+evite textos grandes e cinematograficos ja que é para uma IA seja detalhista, evite luzes e brilho, foque em realismo e terror.
