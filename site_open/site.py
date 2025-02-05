@@ -3,9 +3,10 @@ import time
 import pyautogui
 
 class Site:
-    def __init__(self, url):
+    def __init__(self, url = None):
         self.url = url
-        self.open()
+        if self.url is not None:
+            self.open()
 
     def open(self):
         webbrowser.open(self.url)
