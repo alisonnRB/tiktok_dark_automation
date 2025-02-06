@@ -24,7 +24,7 @@ class TikTok:
         self.add_audio()
         time.sleep(2)
 
-        ButtonFind.find("post.PNG", "postar video", self.base_dir)
+        ButtonFind.move_to_text_input(350, 809)
 
 
 

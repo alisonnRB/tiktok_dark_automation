@@ -4,6 +4,8 @@ from videos.videos import Videos
 from clip.clip import Clip
 from tiktok.tiktok import TikTok
 
+import pyautogui
+
 class Main:
     def __init__(self):
         self.chat = ChatGPT()
@@ -15,6 +17,7 @@ class Main:
 
         self.video.clear()
         print("pasta limpa")
+        pyautogui.hotkey("alt", "f4")
 
 
 if __name__ == "__main__":
