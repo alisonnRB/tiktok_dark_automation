@@ -33,7 +33,7 @@ class Prompt:
     def index_save(self):
         try:
             with open(self.file_index, 'w', encoding='utf-8') as file:
-                file.write(str(self.index))
+                file.write(str(self.index + 1))
             print(f"Conteúdo do arquivo '{self.file_index}' apagado e novo conteúdo escrito com sucesso.")
         except Exception as e:
             print(f"Ocorreu um erro: {e}")

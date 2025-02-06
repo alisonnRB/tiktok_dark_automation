@@ -26,23 +26,21 @@ class Qwen:
         print("🔍 Aguardando botão de download aparecer...")
         time.sleep(2)
 
-        # try:
-        #     botao_erro = pyautogui.locateOnScreen(
-        #         os.path.join(self.base_dir, "erro.PNG"), confidence=0.6
-        #     )
-
-        #     if botao_erro:
-        #         print(botao_erro)
-        #         print("Erro, limite exedido")
-        #         return
-            
-        # except pyautogui.ImageNotFoundException:
-        #     pass
-
         max_attempts = 120
         attempt = 0
 
         while attempt < max_attempts:
+            try:
+                botao_erro = pyautogui.locateOnScreen(
+                os.path.join(self.base_dir, "erro.PNG"), confidence=0.6
+            )
+
+                if botao_erro:
+                    raise TypeError("inable")
+            
+            except pyautogui.ImageNotFoundException:
+                pass
+
             try:
                 botao_download = pyautogui.locateOnScreen(
                     os.path.join(self.base_dir, "download.PNG"), confidence=0.6
