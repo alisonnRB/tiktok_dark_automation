@@ -14,14 +14,16 @@ class ChatGPT:
         self.prompt = Prompt()
 
         self.site = Site("https://chatgpt.com")
-        self.site.move_to_text_input(700, 400)
+        ButtonFind.move_to_text_input(700, 400)
     
         Digitador(self.prompt.prompt)
 
         time.sleep(15)
 
-        ButtonFind("copiar.PNG", "copiar", self.base_dir, -2000)
+        ButtonFind.find("copiar.PNG", "copiar", self.base_dir, -2000)
         self.GPTprompt = pyperclip.paste()
+
+        self.prompt.index_save()
 
 
 

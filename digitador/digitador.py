@@ -9,7 +9,7 @@ class Digitador:
                 pyautogui.hotkey('shift', 'enter')
             else:
                 pyautogui.write(char)
-            time.sleep(0.01)
+            time.sleep(0.03)
 
         time.sleep(1)
 

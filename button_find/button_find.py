@@ -4,7 +4,8 @@ import pyautogui
 
 class ButtonFind:
 
-    def __init__(self, name_arq, name_button, base_dir, scroll = 0):
+    @staticmethod
+    def find(name_arq, name_button, base_dir, scroll = 0):
         pyautogui.scroll(clicks=scroll)
         time.sleep(5)
 
@@ -16,3 +17,9 @@ class ButtonFind:
 
         else:
             print(f"Botão {name_button} não encontrado na tela.")
+
+    @staticmethod
+    def move_to_text_input(x, y):
+        pyautogui.moveTo(x, y)
+        pyautogui.click()
+        time.sleep(3)

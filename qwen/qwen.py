@@ -13,40 +13,31 @@ class Qwen:
         self.site = Site("https://chat.qwenlm.ai")
         time.sleep(10)
 
-        ButtonFind("gerar_videos.PNG", "gerar video", self.base_dir)
-        ButtonFind("formato_selection.PNG", "seleção de formato", self.base_dir)
+        ButtonFind.find("gerar_videos.PNG", "gerar video", self.base_dir)
+        ButtonFind.find("formato_selection.PNG", "seleção de formato", self.base_dir)
         time.sleep(2)
-        ButtonFind("format.PNG", "formato", self.base_dir)
+        ButtonFind.find("format.PNG", "formato", self.base_dir)
 
-        self.site.move_to_text_input(700, 400)
+        ButtonFind.move_to_text_input(700, 400)
         Digitador(chatPrompt)
         self.espera()
-
-    def salvar_video(self):
-        time.sleep(2)
-        ButtonFind("download.PNG", "download", self.base_dir, -2000)
-        pyautogui.click()
-        time.sleep(2)
-        self.site.move_to_text_input(900, 96)
-        Digitador(self.base_dir + "/videos")
-        time.sleep(2)
-        ButtonFind("salvar.PNG", "salvar", self.base_dir)
 
     def espera(self):
         print("🔍 Aguardando botão de download aparecer...")
         time.sleep(2)
 
-        try:
-            botao_erro = pyautogui.locateOnScreen(
-                os.path.join(self.base_dir, "erro.PNG"), confidence=0.6
-            )
+        # try:
+        #     botao_erro = pyautogui.locateOnScreen(
+        #         os.path.join(self.base_dir, "erro.PNG"), confidence=0.6
+        #     )
 
-            if botao_erro:
-                print("Erro, limite exedido")
-                return
+        #     if botao_erro:
+        #         print(botao_erro)
+        #         print("Erro, limite exedido")
+        #         return
             
-        except pyautogui.ImageNotFoundException:
-            pass
+        # except pyautogui.ImageNotFoundException:
+        #     pass
 
         max_attempts = 120
         attempt = 0
@@ -59,7 +50,6 @@ class Qwen:
 
                 if botao_download:
                     print("✅ Botão de download encontrado! Iniciando o salvamento do vídeo...")
-                    self.salvar_video()
                     return  
 
             except pyautogui.ImageNotFoundException:
