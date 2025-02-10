@@ -49,9 +49,11 @@ class TikTok:
         time.sleep(3)
 
         ButtonFind.find("name_music.PNG", "musica", self.base_dir)
-        time.sleep(1)
+        time.sleep(2)
         ButtonFind.find("use.PNG", "selecao de musica", self.base_dir)
-        time.sleep(1)
+        time.sleep(2)
+        ButtonFind.find("play.PNG", "mostra", self.base_dir)
+        time.sleep(2)
 
         ButtonFind.find("save_edit.PNG", "salvar musica", self.base_dir)
 
